@@ -1,4 +1,4 @@
-# 👋 Welcome to [Current Cloud AI]
+# 👋 Welcome to Current Cloud AI
 
 We are a **technology solutions company** specializing in building **modern, scalable, and reliable software**. With expertise across **mobile, web, backend, cloud, and AI**, we partner with businesses to turn ideas into powerful digital products.  
 
@@ -40,5 +40,5 @@ We are a **technology solutions company** specializing in building **modern, sca
 
 We love partnering with forward-thinking businesses to create **next-generation digital experiences**.  
 
-📩 Contact us: **[info@currentcloud-ai.com]**  
-🌐 Visit us: **[https://currentcloud-ai.com]**  
+📩 Contact us: **info@currentcloud-ai.com**  
+🌐 Visit us: **https://currentcloud-ai.com**  
